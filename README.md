@@ -11,4 +11,5 @@ I'm a developer focused on building **scalable**, **accessible**, and **human-ce
  📫 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj/)
 - [Portfolio](https://spiketek241.github.io/Portfolio-Website/portfolio.html)
-- blade94781kj@gmail.com
+📫 Reach me: [Email](mailto:blade94781kj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj) | [Portfolio](https://spiketek241.github.io/Portfolio-Website/)
+
