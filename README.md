@@ -3,9 +3,9 @@
 ## Hi there 👋,I'm Kevin
 Hi, I’m Kevin Jerome — An aspiring Full-Stack and iOS Developer with a passion for building scalable, accessible software solutions that drive innovation in EdTech and SaaS. With a foundation in Swift, front-end technologies, and cloud-integrated systems, I thrive at the intersection of clean code, intuitive user experiences, and purposeful design. I’m committed to creating technology that empowers learners, educators, and organizations alike.
 
-I'm a developer focused on building **scalable**, **accessible**, and **human-centered** software solutions that make a difference. My technical foundation lies in **Swift**, front-end frameworks, and cloud-integrated systems. I love working at the intersection of clean code, seamless user experience, and purposeful impact.
+I’m a developer focused on building **scalable, accessible, and human-centered** software solutions that make a difference. My technical foundation lies in **Swift**, front-end frameworks, and cloud-integrated systems. I love working at the intersection of clean code, seamless user experience, and purposeful impact.
 
-💡 I believe in tech that empowers **learners**, **educators**, and **organizations** to grow and thrive.
+💡 I believe in tech that empowers **learners, educators, and organizations** to grow and thrive.
 
 📫 Reach me:
 - [Email](mailto:blade94781kj@gmail.com) 
