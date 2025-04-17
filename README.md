@@ -13,3 +13,8 @@ I'm a developer focused on building **scalable**, **accessible**, and **human-ce
 - [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj)
 - [Portfolio](https://spiketek241.github.io/Portfolio-Website/)
 
+### 🛠️ Tech Stack
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
