@@ -8,8 +8,8 @@ I'm a developer focused on building **scalable**, **accessible**, and **human-ce
 
 💡 I believe in tech that empowers **learners**, **educators**, and **organizations** to grow and thrive.
 
- 📫 Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj/)
-- [Portfolio](https://spiketek241.github.io/Portfolio-Website/portfolio.html)
-📫 Reach me: [Email](mailto:blade94781kj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj) | [Portfolio](https://spiketek241.github.io/Portfolio-Website/)
+📫 Reach me:
+- [Email](mailto:blade94781kj@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj)
+- [Portfolio](https://spiketek241.github.io/Portfolio-Website/)
 
