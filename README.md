@@ -1,5 +1,4 @@
-![ChatGPT Image Apr 15, 2025, 09_08_13 PM](https://github.com/user-attachments/assets/a385c32e-9d8c-4b93-acf2-d994196211b7)
-
+![23B65A98-C3A3-4C9E-BBFE-70187C9D777B_1_201_a](https://github.com/user-attachments/assets/0b6b6e76-8b6d-417c-a08a-a04bcc62138f)
 
 ## Hi there 👋, Kevin Jerome
 Hi, I’m Kevin Jerome — An aspiring Full-Stack and iOS Developer with a passion for building scalable, accessible software solutions that drive innovation in EdTech and SaaS. With a foundation in Swift, front-end technologies, and cloud-integrated systems, I thrive at the intersection of clean code, intuitive user experiences, and purposeful design. I’m committed to creating technology that empowers learners, educators, and organizations alike.
