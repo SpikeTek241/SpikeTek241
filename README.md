@@ -1,23 +1,41 @@
 ![23B65A98-C3A3-4C9E-BBFE-70187C9D777B_1_201_a](https://github.com/user-attachments/assets/0b6b6e76-8b6d-417c-a08a-a04bcc62138f)
 
-   ## Hi there 👋 I'm Kevin
-Hi, I’m Kevin Jerome — An aspiring Full-Stack and iOS Developer with a passion for building scalable, accessible software solutions that drive innovation in EdTech and SaaS. With a foundation in Swift, front-end technologies, and cloud-integrated systems, I thrive at the intersection of clean code, intuitive user experiences, and purposeful design. I’m committed to creating technology that empowers learners, educators, and organizations alike.
+🎓 I'm a Computer Science student at Florida International University (Class of 2026)  
+🌍 Based in Miami, FL | Open to Remote Opportunities  
+🧠 Full-Stack and iOS Developer focused on EdTech, SaaS, and meaningful innovation  
+💡 Passionate about building clean, accessible, and scalable software  
+💼 Currently building: `iCreate`, `FocusFlow`, and `ExpenseIQ`
 
-I’m a developer focused on building **scalable, accessible, and human-centered** software solutions that make a difference. My technical foundation lies in **Swift**, front-end frameworks, and cloud-integrated systems. I love working at the intersection of clean code, seamless user experience, and purposeful impact.
+### 🚀 Tech Stack
 
-💡 I believe in tech that empowers **learners, educators, and organizations** to grow and thrive.
+**Languages & Frameworks**  
+<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>  
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>  
+<img src="https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white"/>
 
-📫 Reach me:
-- [Email](mailto:blade94781kj@gmail.com) 
-- [LinkedIn](https://www.linkedin.com/in/kevin-jeromebladekj)
-- [Portfolio](https://spiketek241.github.io/Portfolio-Website/)
+### 📂 Featured Projects
 
-### 🛠️ Tech Stack
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+| Project | Description |
+|--------|-------------|
+| **📱 iCreate** | iOS-first device deployment tool for schools & IT. Built with Swift + SwiftUI. |
+| **🧠 FocusFlow** | Pomodoro-style productivity app with calendar, task sync, and iCloud backup. |
+| **📊 Expense IQ** | Smart expense dashboard inspired by Ramp. Built with React, TypeScript, and Firebase. |
+| **🌍 Universal Education Empowerment** | Full-stack platform promoting access to quality education worldwide. |
+| **📚 StudySync** | Flashcard learning app using spaced repetition with React + Firebase. |
+
+---
+
+### 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-jei)
+- 🌐 [Portfolio](https://spiketek241.github.io/Portfolio/)
+- 📧 Email: blade94781kj@gmail.com
+
+---
+
+### 🧠 Fun Fact  
+I’m obsessed with optimizing user experience and building products that solve real-world problems. I code like it’s a craft and I build like it’s war ⚔️.
