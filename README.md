@@ -24,7 +24,7 @@
 
 I'm a Computer Science student at Florida International University (Class of 2026) focused on building impactful, scalable, and user-centered applications.
 
-I approach development like a system — from planning and architecture to execution and optimization.
+I approach development like a system from planning and architecture to execution and optimization.
 
 Currently building:
 - ⚡ ExpenseIQ (Fintech Dashboard)
