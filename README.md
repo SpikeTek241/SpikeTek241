@@ -1,96 +1,116 @@
-# ⚡ Kevin Jerome
+<h1 align="center">⚡ Kevin Jerome</h1>
+<h3 align="center">Full-Stack Developer | Product Builder</h3>
 
-### 🧠 Full-Stack Developer | Product Builder
+<p align="center">
+  Building scalable, product-driven applications with clean design,<br>
+  strong systems, and real-world impact.
+</p>
 
-> Building scalable systems and product-driven applications that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-I’m a Computer Science student at Florida International University (Class of 2026) focused on building **real, scalable applications** across web and mobile.
-
-I approach development like a system — from architecture to execution — with a strong focus on performance, design, and usability.
+<p align="center">
+  📍 Miami, FL • 🌎 Open to Remote Opportunities
+</p>
 
 ---
 
-## 📊 Live Stats
+<h2 align="center">⚙️ Current Focus</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SpikeTek241&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/SpikeTek241?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/SpikeTek241?affiliations=OWNER%2CCOLLABORATOR)
-
----
-
-## ⚙️ Current Build Cycle
-
-- 📊 **ExpenseIQ** → Fintech dashboard (analytics + tracking)
-- ⏳ **Kairos** → Collaborative time management system
-- 🚀 **Titan** → AI-powered product system (in development)
+<p align="center">
+  📊 <strong>ExpenseIQ</strong> — Fintech dashboard for smarter spending insights <br>
+  ⏳ <strong>Kairos</strong> — Collaborative time management system <br>
+  🚀 <strong>Titan</strong> — AI-powered product system (in development)
+</p>
 
 ---
 
-## 🧬 Tech Stack
+<h2 align="center">🧬 Tech Arsenal</h2>
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+</p>
 
-### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwind-css)
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase,supabase,prisma" />
+</p>
 
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge)
-
-### 🗄 Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Featured Systems
+<h2 align="center">🚀 Featured Systems</h2>
 
-### 📊 ExpenseIQ
-Fintech-style dashboard inspired by real-world tools like Ramp  
-→ Analytics, transactions, clean UI  
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">📊 ExpenseIQ</h3>
+      <p align="center">
+        Fintech-style dashboard inspired by real-world tools like Ramp.<br>
+        Focused on analytics, transactions, and clean UI.
+      </p>
+      <p align="center">
+        <a href="https://github.com/SpikeTek241/ExpenseIQ">View Project</a>
+      </p>
+    </td>
 
-🔗 https://github.com/SpikeTek241/ExpenseIQ
+    <td width="33%">
+      <h3 align="center">⏳ Kairos</h3>
+      <p align="center">
+        Productivity and scheduling platform designed for structured workflows<br>
+        and team collaboration.
+      </p>
+      <p align="center">
+        <a href="#">View Project</a>
+      </p>
+    </td>
+
+    <td width="33%">
+      <h3 align="center">🚀 Titan</h3>
+      <p align="center">
+        Upcoming AI-powered system built for performance,<br>
+        scalability, and real-world impact.
+      </p>
+      <p align="center">
+        Coming Soon
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⏳ Kairos
-Time management system designed for productivity + structure  
-→ Team collaboration + scheduling  
+<h2 align="center">📊 GitHub Analytics</h2>
 
-🔗 (add your repo)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=radical" />
+</p>
 
----
-
-### 🌍 Universal Education Empowerment
-Full-stack education platform focused on accessibility  
-
-🔗 https://github.com/SpikeTek241/...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTek241&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+<h2 align="center">🌐 Connect</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTek241&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect
-
-- 🌍 Portfolio: https://spiketek241.github.io/Portfolio-Website/
-- 💼 LinkedIn: https://linkedin.com/in/kevinjerome-kj
-- 📧 Email: blade94781kj@gmail.com
+<p align="center">
+  <a href="https://spiketek241.github.io/Portfolio-Website/">🌍 Portfolio</a> •
+  <a href="https://linkedin.com/in/kevinjerome-kj">💼 LinkedIn</a> •
+  <a href="mailto:blade94781kj@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-## ⚡ Philosophy
+<h2 align="center">⚡ Philosophy</h2>
 
-> I don’t build for completion — I build for impact.
+<p align="center">
+  I don’t just write code — I design systems.<br>
+  Every project is built to be scalable, intentional, and product-ready.
+</p>
+
+<p align="center">
+  <strong>“I don’t just build projects — I build leverage.”</strong>
+</p>
