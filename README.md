@@ -8,6 +8,14 @@
   <img src="https://img.shields.io/badge/Location-Miami,%20FL-800020?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-800020?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-FullStack%20%7C%20iOS-800020?style=for-the-badge"/>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:blade94781kj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -27,7 +35,7 @@ Currently building:
 
 ## 📊 Stats
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Projects-Building%20Real%20Systems-800020?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-Clean%20Architecture-800020?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Goal-100K%2B%20Engineer-800020?style=for-the-badge"/>
@@ -37,7 +45,7 @@ Currently building:
 
 ## 🧰 Languages & Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,postgres,firebase,supabase,prisma,git,github,vscode" />
 </p>
 
@@ -97,15 +105,12 @@ Currently building:
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-link">
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:blade94781kj@gmail.com">
     <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-800020?style=for-the-badge"/>
   </a>
 </p>
 
