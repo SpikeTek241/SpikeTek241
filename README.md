@@ -1,4 +1,4 @@
-<h1 align="left">🚀 Kevin Jerome</h1>
+<h1 align="left">Kevin Jerome</h1>
 
 <p align="left">
   <b>Software Engineer • Full-Stack Developer • iOS Developer • Builder</b>
