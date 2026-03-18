@@ -2,22 +2,8 @@
 <h3 align="center">Full-Stack Developer | Product Builder</h3>
 
 <p align="center">
-  Building scalable, product-driven applications with clean design,<br>
-  strong systems, and real-world impact.
-</p>
-
-<p align="center">
-  📍 Miami, FL • 🌎 Open to Remote Opportunities
-</p>
-
----
-
-<h2 align="center">⚙️ Current Focus</h2>
-
-<p align="center">
-  📊 <strong>ExpenseIQ</strong> — Fintech dashboard for smarter spending insights <br>
-  ⏳ <strong>Kairos</strong> — Collaborative time management system <br>
-  🚀 <strong>Titan</strong> — AI-powered product system (in development)
+  Building scalable, product-driven applications with clean design<br>
+  and real-world impact.
 </p>
 
 ---
@@ -45,37 +31,34 @@
 
 <table>
   <tr>
-    <td width="33%">
-      <h3 align="center">📊 ExpenseIQ</h3>
-      <p align="center">
-        Fintech-style dashboard inspired by real-world tools like Ramp.<br>
-        Focused on analytics, transactions, and clean UI.
+    <td width="33%" valign="top" align="center">
+      <h3>📊 ExpenseIQ</h3>
+      <img src="./assets/expenseiq-preview.png" alt="ExpenseIQ Preview" width="90%" />
+      <p>
+        Fintech dashboard inspired by real-world tools.<br>
+        Built for analytics, tracking, and clean UI.
       </p>
-      <p align="center">
-        <a href="https://github.com/SpikeTek241/ExpenseIQ">View Project</a>
-      </p>
+      <a href="https://github.com/SpikeTek241/ExpenseIQ"><strong>View Project</strong></a>
     </td>
 
-    <td width="33%">
-      <h3 align="center">⏳ Kairos</h3>
-      <p align="center">
-        Productivity and scheduling platform designed for structured workflows<br>
-        and team collaboration.
+    <td width="33%" valign="top" align="center">
+      <h3>⏳ Kairos</h3>
+      <img src="./assets/kairos-preview.png" alt="Kairos Preview" width="90%" />
+      <p>
+        Collaborative time management platform<br>
+        designed for productivity and structure.
       </p>
-      <p align="center">
-        <a href="#">View Project</a>
-      </p>
+      <a href="#"><strong>View Project</strong></a>
     </td>
 
-    <td width="33%">
-      <h3 align="center">🚀 Titan</h3>
-      <p align="center">
-        Upcoming AI-powered system built for performance,<br>
-        scalability, and real-world impact.
+    <td width="33%" valign="top" align="center">
+      <h3>🚀 Titan</h3>
+      <img src="./assets/titan-preview.png" alt="Titan Preview" width="90%" />
+      <p>
+        AI-powered product system built for<br>
+        scalability and real-world impact.
       </p>
-      <p align="center">
-        Coming Soon
-      </p>
+      <strong>Coming Soon</strong>
     </td>
   </tr>
 </table>
@@ -97,19 +80,12 @@
 <h2 align="center">🌐 Connect</h2>
 
 <p align="center">
-  <a href="https://spiketek241.github.io/Portfolio-Website/">🌍 Portfolio</a> •
-  <a href="https://linkedin.com/in/kevinjerome-kj">💼 LinkedIn</a> •
-  <a href="mailto:blade94781kj@gmail.com">📧 Email</a>
+  <a href="https://spiketek241.github.io/Portfolio-Website/">Portfolio</a> •
+  <a href="https://linkedin.com/in/kevinjerome-kj">LinkedIn</a> •
+  <a href="mailto:blade94781kj@gmail.com">Email</a>
 </p>
 
 ---
-
-<h2 align="center">⚡ Philosophy</h2>
-
-<p align="center">
-  I don’t just write code — I design systems.<br>
-  Every project is built to be scalable, intentional, and product-ready.
-</p>
 
 <p align="center">
   <strong>“I don’t just build projects — I build leverage.”</strong>
