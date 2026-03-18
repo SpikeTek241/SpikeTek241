@@ -118,4 +118,4 @@ Currently building:
 
 ## ⚡ Fun Fact
 
-I treat development like engineering systems — not just writing code, but building products that scale, perform, and solve real problems.
+I treat development like engineering systems not just writing code, but building products that scale, perform, and solve real problems.
