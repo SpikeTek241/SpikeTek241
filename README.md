@@ -1,41 +1,96 @@
+# ⚡ Kevin Jerome
 
+### 🧠 Full-Stack Developer | Product Builder
 
-🎓 I'm a Computer Science student at Florida International University (Class of 2026)  
-🌍 Based in Miami, FL | Open to Remote Opportunities  
-🧠 Full-Stack and iOS Developer focused on EdTech, SaaS, and meaningful innovation  
-💡 Passionate about building clean, accessible, and scalable software  
-💼 Currently building: `iCreate`, `FocusFlow`, and `ExpenseIQ`
-
-### 🚀 Tech Stack
-
-**Languages & Frameworks**  
-<img src="https://img.shields.io/badge/Swift-orange?style=flat&logo=swift&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black"/>  
-<img src="https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white"/>  
-<img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>  
-<img src="https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white"/>
-
-### 📂 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **📱 iCreate** | iOS-first device deployment tool for schools & IT. Built with Swift + SwiftUI. |
-| **🧠 FocusFlow** | Pomodoro-style productivity app with calendar, task sync, and iCloud backup. |
-| **📊 Expense IQ** | Smart expense dashboard inspired by Ramp. Built with React, TypeScript, and Firebase. |
-| **🌍 Universal Education Empowerment** | Full-stack platform promoting access to quality education worldwide. |
-| **📚 StudySync** | Flashcard learning app using spaced repetition with React + Firebase. |
+> Building scalable systems and product-driven applications that solve real-world problems.
 
 ---
 
-### 📫 Connect with Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-jei)
-- 🌐 [Portfolio](https://spiketek241.github.io/Portfolio/)
+## 🚀 About Me
+
+I’m a Computer Science student at Florida International University (Class of 2026) focused on building **real, scalable applications** across web and mobile.
+
+I approach development like a system — from architecture to execution — with a strong focus on performance, design, and usability.
+
+---
+
+## 📊 Live Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=SpikeTek241&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/SpikeTek241?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/SpikeTek241?affiliations=OWNER%2CCOLLABORATOR)
+
+---
+
+## ⚙️ Current Build Cycle
+
+- 📊 **ExpenseIQ** → Fintech dashboard (analytics + tracking)
+- ⏳ **Kairos** → Collaborative time management system
+- 🚀 **Titan** → AI-powered product system (in development)
+
+---
+
+## 🧬 Tech Stack
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=tailwind-css)
+
+### 🛠 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge)
+
+### 🗄 Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=for-the-badge&logo=firebase)
+
+---
+
+## 🚀 Featured Systems
+
+### 📊 ExpenseIQ
+Fintech-style dashboard inspired by real-world tools like Ramp  
+→ Analytics, transactions, clean UI  
+
+🔗 https://github.com/SpikeTek241/ExpenseIQ
+
+---
+
+### ⏳ Kairos
+Time management system designed for productivity + structure  
+→ Team collaboration + scheduling  
+
+🔗 (add your repo)
+
+---
+
+### 🌍 Universal Education Empowerment
+Full-stack education platform focused on accessibility  
+
+🔗 https://github.com/SpikeTek241/...
+
+---
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTek241&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect
+
+- 🌍 Portfolio: https://spiketek241.github.io/Portfolio-Website/
+- 💼 LinkedIn: https://linkedin.com/in/kevinjerome-kj
 - 📧 Email: blade94781kj@gmail.com
 
 ---
 
-### 🧠 Fun Fact  
-I’m obsessed with optimizing user experience and building products that solve real-world problems. I code like it’s a craft and I build like it’s war ⚔️.
+## ⚡ Philosophy
+
+> I don’t build for completion — I build for impact.
