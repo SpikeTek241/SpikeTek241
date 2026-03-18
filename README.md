@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-800020?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-FullStack%20%7C%20iOS-800020?style=for-the-badge"/>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/kevinjerome-kj/">
     <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -106,7 +106,7 @@ Currently building:
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINK">
+  <a href="https://www.linkedin.com/in/kevinjerome-kj/">
     <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:blade94781kj@gmail.com">
