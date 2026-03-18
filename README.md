@@ -1,10 +1,10 @@
-<h1 align="center">🚀 Kevin Jerome</h1>
+<h1 align="left">🚀 Kevin Jerome</h1>
 
-<p align="center">
+<p align="left">
   <b>Full-Stack Developer • iOS Developer • Builder</b>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Location-Miami,%20FL-800020?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-800020?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Focus-FullStack%20%7C%20iOS-800020?style=for-the-badge"/>
