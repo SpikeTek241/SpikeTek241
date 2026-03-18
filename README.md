@@ -29,7 +29,7 @@ I approach development like a system — from planning and architecture to execu
 Currently building:
 - ⚡ ExpenseIQ (Fintech Dashboard)
 - ⏳ Kairos (Time Management Platform)
-- 🚀 Titan (Next-gen product system)
+- 🚀 AI-Powered Application
 
 ---
 
