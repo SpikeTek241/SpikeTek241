@@ -1,4 +1,4 @@
-![23B65A98-C3A3-4C9E-BBFE-70187C9D777B_1_201_a](https://github.com/user-attachments/assets/0b6b6e76-8b6d-417c-a08a-a04bcc62138f)
+
 
 🎓 I'm a Computer Science student at Florida International University (Class of 2026)  
 🌍 Based in Miami, FL | Open to Remote Opportunities  
