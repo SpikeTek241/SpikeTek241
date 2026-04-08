@@ -77,7 +77,7 @@ Currently building:
 <td width="33%">
 <h3 align="center">⏳ Kairos</h3>
 <p align="center">
-  <img src="https://via.placeholder.com/300x180/800020/FFFFFF?text=Kairos" />
+  <img src="ProjectAssets/Kairos.png" width="100%" style="border-radius:10px;" />
 </p>
 <p align="center">
   Collaborative time management system designed<br>
