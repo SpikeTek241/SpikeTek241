@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="180" style="border-radius:12px;" />
+  <img src="Assets/Logo.png" width="180" style="border-radius:12px;" />
 </p>
 
 <h1 align="left">Kevin Jerome</h1>
