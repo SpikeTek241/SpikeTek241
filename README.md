@@ -63,7 +63,7 @@ Currently building:
 <td width="33%">
 <h3 align="center">📊 ExpenseIQ</h3>
 <p align="center">
-  <img src="https://via.placeholder.com/300x180/800020/FFFFFF?text=ExpenseIQ" />
+  <img src="ProjectAssets/ExpenseIQ.png" width="100" />
 </p>
 <p align="center">
   Fintech dashboard inspired by modern platforms like Ramp.<br>
