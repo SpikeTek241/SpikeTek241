@@ -84,7 +84,7 @@ Currently building:
   for productivity and structured workflows.
 </p>
 <p align="center">
-  <a href="#">View Project</a>
+  <a href="https://github.com/Kairos-Moment/kairos-app">View Project</a>
 </p>
 </td>
 
