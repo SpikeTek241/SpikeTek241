@@ -98,7 +98,7 @@ Currently building:
   performance, scale, and real-world impact.
 </p>
 <p align="center">
-  Coming Soon
+   <a href="https://github.com/SpikeTek241/Universal-Educational-Empowerment">View Project</a>
 </p>
 </td>
 
