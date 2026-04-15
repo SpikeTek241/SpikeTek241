@@ -33,7 +33,8 @@ I approach development like a system from planning and architecture to execution
 Currently building:
 - ⚡ ExpenseIQ (Fintech Dashboard)
 - ⏳ Kairos (Time Management Platform)
-- 🚀 AI-Powered Application
+- 🚀 Universal Educational Empowerment
+- AI Application Coming Soon!!!!
 
 ---
 
