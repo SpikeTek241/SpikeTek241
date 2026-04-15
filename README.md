@@ -89,9 +89,9 @@ Currently building:
 </td>
 
 <td width="33%">
-<h3 align="center">🚀 Titan</h3>
+<h3 align="center">🚀 Universal Educational Empowerment</h3>
 <p align="center">
-  <img src="https://via.placeholder.com/300x180/800020/FFFFFF?text=Titan" />
+  <img width="1311" height="769" alt="UEE HomePage" src="https://github.com/user-attachments/assets/f5d13edb-7499-4f87-8498-b6d474d9e6aa" /
 </p>
 <p align="center">
   Upcoming AI-powered product focused on<br>
