@@ -1,73 +1,121 @@
-<!--
-  Kevin Jerome — GitHub Profile README
--->
+<div align="center">
 
-<!-- Typing SVG header -->
-<p align="center">
+  <!-- Animated header banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&text=Kevin%20Jerome&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20iOS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+  <!-- Typing SVG -->
   <a href="https://github.com/SpikeTek241">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Jerome+%F0%9F%91%8B;Full-Stack+%26+iOS+Developer;CS+%40+FIU+%E2%80%94+Class+of+2026;Building+things+that+actually+matter." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800020&center=true&vCenter=true&width=600&height=45&lines=CS+%40+FIU+%E2%80%94+Class+of+2026;Building+fintech%2C+productivity+%26+edtech+products;From+architecture+to+deployment;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-</p>
 
-<br/>
+  <br/>
 
-<!-- One-line bio -->
-<p align="center">
-  Software engineer focused on fintech, productivity, and education tech.<br/>
-  I build full-stack web apps and native iOS experiences from architecture to deployment.
-</p>
+  <!-- Social badges -->
+  <a href="https://www.linkedin.com/in/kevinjerome-kj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:blade94781kj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Miami%2C%20FL-800020?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=SpikeTek241&style=for-the-badge&color=800020&label=PROFILE+VIEWS"/>
+
+</div>
 
 <br/>
 
 ---
 
-### 🔧 What I'm working on
+## ⚡ About
 
-| Project | Description | Stack |
-|---|---|---|
-| ⚡ [ExpenseIQ](https://github.com/SpikeTek241/ExpenseIQ) | Fintech analytics dashboard — think Ramp, built from scratch | React · TypeScript · Supabase · Postgres |
-| ⏳ [Kairos](https://github.com/Kairos-Moment/kairos-app) | Collaborative time management for structured workflows | React · Node.js · Firebase |
-| 🎓 [Universal Educational Empowerment](https://github.com/SpikeTek241/Universal-Educational-Empowerment) | AI-powered platform for accessible, scalable education | React · Express · OpenAI |
-| 🤖 AI App | Something new — in stealth | TBA |
-
----
-
-### 🛠 Tech Stack
-
-```text
-Languages      TypeScript  ·  JavaScript  ·  Swift  ·  SQL  ·  HTML/CSS
-Frontend       React  ·  Tailwind  ·  Next.js
-Backend        Node.js  ·  Express  ·  Prisma
-Databases      PostgreSQL  ·  Firebase  ·  Supabase
-Tools          Git  ·  GitHub  ·  VS Code  ·  Xcode
+```yaml
+name:       Kevin Jerome
+role:       Software Engineer  ·  Full-Stack Developer  ·  iOS Developer
+education:  B.S. Computer Science — Florida International University, 2026
+location:   Miami, FL
+focus:      Fintech  ·  Productivity Tools  ·  Education Technology
+status:     Open to opportunities
 ```
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SpikeTek241&theme=dark&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTek241&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&langs_count=6" />
-</p>
+> I build systems end-to-end — from data models and APIs to polished UIs.  
+> If it solves a real problem, I want to build it.
 
 ---
 
-### 📬 Let's connect
+## 🚀 Current Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>⚡ ExpenseIQ</h3>
+      <p>Fintech analytics dashboard inspired by Ramp. Built for real financial insight — not just pretty charts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/SpikeTek241/ExpenseIQ">→ View Project</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>⏳ Kairos</h3>
+      <p>Collaborative time management platform. Structured workflows for teams that actually need to ship.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <a href="https://github.com/Kairos-Moment/kairos-app">→ View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎓 Universal Educational Empowerment</h3>
+      <p>AI-powered platform making quality education accessible and scalable for everyone.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <a href="https://github.com/SpikeTek241/Universal-Educational-Empowerment">→ View Project</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🤖 AI App — Stealth Mode</h3>
+      <p>Something new is cooking. Stack TBD. Details soon.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-In%20Development-800020?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kevinjerome-kj/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Jerome-800020?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:blade94781kj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blade94781kj%40gmail.com-800020?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,swift,react,nextjs,tailwind,nodejs,express,postgres,supabase,firebase,prisma,git,github,vscode,xcode&perline=8" />
 </p>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SpikeTek241&theme=dark&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020&sideLabels=888&dates=888" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&include_all_commits=true&count_private=true" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpikeTek241&theme=github-compact&bg_color=0D1117&color=800020&line=800020&point=ffffff&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=80&section=footer" width="100%"/>
+</div>
+
 
 <br/>
 
