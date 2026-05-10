@@ -29,15 +29,15 @@
 ## ⚡ About
 
 ```yaml
-name:       Kevin Jerome
-role:       Software Engineer  ·  Full-Stack Developer  ·  iOS Developer
-education:  B.S. Computer Science — Florida International University, 2026
-location:   Miami, FL
-focus:      Fintech  ·  Productivity Tools  ·  Education Technology
-status:     Open to opportunities
+Name:       Kevin Jerome
+Role:       Software Engineer  ·  Full-Stack Developer  ·  iOS Developer
+Education:  B.S. Computer Science — Florida International University, 2026
+Location:   Miami, FL
+Focus:      Fintech  ·  Productivity Tools  ·  Education Technology
+Status:     Open to opportunities
 ```
 
-> I build systems end-to-end — from data models and APIs to polished UIs.  
+> I build systems end-to-end, from data models and APIs to polished UIs.  
 > If it solves a real problem, I want to build it.
 
 ---
