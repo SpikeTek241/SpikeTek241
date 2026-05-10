@@ -42,12 +42,12 @@ Status:     Open to opportunities
 
 ---
 
-## 🚀 Current Projects
+## Current Projects
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>⚡ ExpenseIQ</h3>
+      <h3>ExpenseIQ</h3>
       <p>Fintech analytics dashboard inspired by Ramp. Built for real financial insight — not just pretty charts.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -58,7 +58,7 @@ Status:     Open to opportunities
       <a href="https://github.com/SpikeTek241/ExpenseIQ">→ View Project</a>
     </td>
     <td valign="top" width="50%">
-      <h3>⏳ Kairos</h3>
+      <h3>Kairos</h3>
       <p>Collaborative time management platform. Structured workflows for teams that actually need to ship.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -70,7 +70,7 @@ Status:     Open to opportunities
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>🎓 Universal Educational Empowerment</h3>
+      <h3>Universal Educational Empowerment</h3>
       <p>AI-powered platform making quality education accessible and scalable for everyone.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -80,7 +80,7 @@ Status:     Open to opportunities
       <a href="https://github.com/SpikeTek241/Universal-Educational-Empowerment">→ View Project</a>
     </td>
     <td valign="top" width="50%">
-      <h3>🤖 AI App — Stealth Mode</h3>
+      <h3>StoreLens — Inventory Management </h3>
       <p>Something new is cooking. Stack TBD. Details soon.</p>
       <p>
         <img src="https://img.shields.io/badge/Status-In%20Development-800020?style=flat-square"/>
@@ -91,7 +91,7 @@ Status:     Open to opportunities
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,swift,react,nextjs,tailwind,nodejs,express,postgres,supabase,firebase,prisma,git,github,vscode,xcode&perline=8" />
@@ -99,7 +99,7 @@ Status:     Open to opportunities
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SpikeTek241&theme=dark&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020&sideLabels=888&dates=888" width="49%"/>
