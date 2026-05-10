@@ -14,7 +14,7 @@
 <!-- One-line bio -->
 <p align="center">
   Software engineer focused on fintech, productivity, and education tech.<br/>
-  I build full-stack web apps and native iOS experiences — from architecture to deployment.
+  I build full-stack web apps and native iOS experiences from architecture to deployment.
 </p>
 
 <br/>
