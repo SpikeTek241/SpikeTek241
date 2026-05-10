@@ -1,116 +1,76 @@
+<!--
+  Kevin Jerome — GitHub Profile README
+-->
+
+<!-- Typing SVG header -->
 <p align="center">
-  <img src="Assets/Logo.png" width="180" />
-</p>
-
-<h1 align="left">Kevin Jerome</h1>
-
-<p align="left">
-  <b>Software Engineer &nbsp;•&nbsp; Full-Stack Developer &nbsp;•&nbsp; iOS Developer &nbsp;•&nbsp; Builder</b>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Location-Miami,%20FL-800020?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-800020?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20iOS-800020?style=for-the-badge"/>
-  <a href="https://www.linkedin.com/in/kevinjerome-kj/">
-    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://github.com/SpikeTek241">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kevin+Jerome+%F0%9F%91%8B;Full-Stack+%26+iOS+Developer;CS+%40+FIU+%E2%80%94+Class+of+2026;Building+things+that+actually+matter." alt="Typing SVG" />
   </a>
+</p>
+
+<br/>
+
+<!-- One-line bio -->
+<p align="center">
+  Software engineer focused on fintech, productivity, and education tech.<br/>
+  I build full-stack web apps and native iOS experiences — from architecture to deployment.
+</p>
+
+<br/>
+
+---
+
+### 🔧 What I'm working on
+
+| Project | Description | Stack |
+|---|---|---|
+| ⚡ [ExpenseIQ](https://github.com/SpikeTek241/ExpenseIQ) | Fintech analytics dashboard — think Ramp, built from scratch | React · TypeScript · Supabase · Postgres |
+| ⏳ [Kairos](https://github.com/Kairos-Moment/kairos-app) | Collaborative time management for structured workflows | React · Node.js · Firebase |
+| 🎓 [Universal Educational Empowerment](https://github.com/SpikeTek241/Universal-Educational-Empowerment) | AI-powered platform for accessible, scalable education | React · Express · OpenAI |
+| 🤖 AI App | Something new — in stealth | TBA |
+
+---
+
+### 🛠 Tech Stack
+
+```text
+Languages      TypeScript  ·  JavaScript  ·  Swift  ·  SQL  ·  HTML/CSS
+Frontend       React  ·  Tailwind  ·  Next.js
+Backend        Node.js  ·  Express  ·  Prisma
+Databases      PostgreSQL  ·  Firebase  ·  Supabase
+Tools          Git  ·  GitHub  ·  VS Code  ·  Xcode
+```
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SpikeTek241&theme=dark&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTek241&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&langs_count=6" />
+</p>
+
+---
+
+### 📬 Let's connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/kevinjerome-kj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Jerome-800020?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
   <a href="mailto:blade94781kj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-blade94781kj%40gmail.com-800020?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
+<br/>
 
-## 🧠 About Me
-
-I'm a Computer Science student at Florida International University (Class of 2026), focused on building impactful, scalable, and user-centered applications. I approach development like a system — from planning and architecture to execution and optimization.
-
-**Currently building:**
-
-- ⚡ **ExpenseIQ** — Fintech dashboard for analytics and financial insights
-- ⏳ **Kairos** — Collaborative time management platform for structured workflows
-- 🎓 **Universal Educational Empowerment** — AI-powered platform for accessible education
-- 🤖 **AI Application** — Coming soon
-
----
-
-## 🧰 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,react,ts,js,html,css,tailwind,nodejs,express,postgres,firebase,supabase,prisma,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=dark&title_color=800020&icon_color=800020&hide_border=true&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpikeTek241&layout=compact&theme=dark&title_color=800020&hide_border=true&bg_color=0d1117" height="165"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-<h3 align="center">📊 ExpenseIQ</h3>
-<p align="center">
-  <img src="ProjectAssets/ExpenseIQ.png" width="100%" />
-</p>
-<p align="center">
-  Fintech dashboard inspired by modern platforms like Ramp.<br/>
-  Built for analytics, insights, and financial performance.
-</p>
-<p align="center">
-  <a href="https://github.com/SpikeTek241/ExpenseIQ">View Project →</a>
-</p>
-</td>
-
-<td width="33%" valign="top">
-<h3 align="center">⏳ Kairos</h3>
-<p align="center">
-  <img src="ProjectAssets/Kairos.png" width="100%" />
-</p>
-<p align="center">
-  Collaborative time management system designed<br/>
-  for productivity and structured workflows.
-</p>
-<p align="center">
-  <a href="https://github.com/Kairos-Moment/kairos-app">View Project →</a>
-</p>
-</td>
-
-<td width="33%" valign="top">
-<h3 align="center">🎓 Universal Educational Empowerment</h3>
-<p align="center">
-  <img width="100%" alt="UEE HomePage" src="https://github.com/user-attachments/assets/f5d13edb-7499-4f87-8498-b6d474d9e6aa" />
-</p>
-<p align="center">
-  AI-powered platform focused on accessible, scalable education<br/>
-  and real-world academic impact.
-</p>
-<p align="center">
-  <a href="https://github.com/SpikeTek241/Universal-Educational-Empowerment">View Project →</a>
-</p>
-</td>
-
-</tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kevinjerome-kj/">
-    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:blade94781kj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=SpikeTek241&style=flat-square&color=800020&label=profile+views" />
 </p>
