@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&text=Kevin%20Jerome&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20iOS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
   <a href="https://github.com/SpikeTek241">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800020&center=true&vCenter=true&width=600&height=45&lines=CS+%40+FIU+%E2%80%94+Class+of+2026;Building+Fintech%2C+Productivity+%26+Edtech+products;From+Architecture+to+Deployment;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800020&center=true&vCenter=true&width=600&height=45&lines=CS+%40+FIU+%E2%80%94+Class+of+2026;Building+fintech%2C+productivity+%26+edtech+products;From+architecture+to+deployment;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,6 +32,7 @@ Education:  B.A. Computer Science — Florida International University, 2026
 Location:   Miami, FL
 Focus:      Fintech  ·  Productivity Tools  ·  Education Technology  ·  Retail Tech
 Status:     Open to opportunities
+```
 
 > I build systems end-to-end, from data models and APIs to polished UIs.  
 > If it solves a real problem, I want to build it.
