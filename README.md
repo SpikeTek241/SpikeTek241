@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&text=Kevin%20Jerome&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20iOS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
   <a href="https://github.com/SpikeTek241">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800020&center=true&vCenter=true&width=600&height=45&lines=CS+%40+FIU+%E2%80%94+Class+of+2026;Building+fintech%2C+productivity+%26+edtech+products;From+architecture+to+deployment;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800020&center=true&vCenter=true&width=600&height=45&lines=CS+%40+FIU+%E2%80%94+Class+of+2026;Building+Fintech%2C+Productivity+%26+Edtech+products;From+Architecture+to+Deployment;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,9 +32,8 @@ Education:  B.A. Computer Science — Florida International University, 2026
 Location:   Miami, FL
 Focus:      Fintech  ·  Productivity Tools  ·  Education Technology  ·  Retail Tech
 Status:     Open to opportunities
-```
 
-> I build systems end-to-end from data models and APIs to polished UIs.  
+> I build systems end-to-end, from data models and APIs to polished UIs.  
 > If it solves a real problem, I want to build it.
 
 ---
@@ -45,13 +44,14 @@ Status:     Open to opportunities
   <tr>
     <td valign="top" width="50%">
       <h3>ExpenseIQ</h3>
-      <p>AI-powered fintech analytics dashboard. Built for real financial insight — predictive spending, smart categorization, and OpenAI-driven recommendations.</p>
+      <p>AI-powered fintech analytics dashboard. Predictive spending, smart categorization, and OpenAI-driven financial recommendations.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -62,14 +62,14 @@ Status:     Open to opportunities
     </td>
     <td valign="top" width="50%">
       <h3>Kairos</h3>
-      <p>Collaborative time management platform. Structured workflows, focus sessions, voice logging via Web Speech API, and AI-driven priority insights.</p>
+      <p>Collaborative time management platform. Focus sessions, voice logging via Web Speech API, and AI-driven priority insights.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS%20Modules-000000?style=flat-square&logo=cssmodules&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
         <img src="https://img.shields.io/badge/GitHub%20OAuth-181717?style=flat-square&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
       </p>
@@ -79,18 +79,22 @@ Status:     Open to opportunities
   <tr>
     <td valign="top" width="50%">
       <h3>Universal Educational Empowerment</h3>
-      <p>AI-powered platform making quality education accessible and scalable for everyone.</p>
+      <p>AI-powered platform making quality education accessible and scalable. Modernizing from vanilla JS into a full React/TypeScript stack with Supabase Auth.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
       <a href="https://github.com/SpikeTek241/Universal-Educational-Empowerment">→ View Project</a>
     </td>
     <td valign="top" width="50%">
       <h3>StoreLens</h3>
-      <p>Retail intelligence platform for inventory analytics, barcode scanning, and multi-store management. Built on a Java Spring Boot backend with a React frontend.</p>
+      <p>Retail intelligence platform for inventory analytics, barcode scanning, and multi-store management. Java Spring Boot backend, React frontend.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
@@ -110,7 +114,7 @@ Status:     Open to opportunities
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,swift,react,nextjs,tailwind,vite,nodejs,express,spring,postgres,supabase,firebase,prisma,docker,vercel,git,github,vscode,xcode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,swift,react,nextjs,tailwind,vite,nodejs,express,spring,postgres,supabase,firebase,prisma,docker,vercel,git,github,vscode&perline=20" />
 </p>
 
 ---
