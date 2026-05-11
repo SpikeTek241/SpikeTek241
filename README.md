@@ -34,7 +34,7 @@ Focus:      Fintech  ·  Productivity Tools  ·  Education Technology  ·  Retai
 Status:     Open to opportunities
 ```
 
-> I build systems end-to-end — from data models and APIs to polished UIs.  
+> I build systems end-to-end from data models and APIs to polished UIs.  
 > If it solves a real problem, I want to build it.
 
 ---
