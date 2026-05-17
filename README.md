@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header&text=Kevin%20Jerome&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20iOS&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-  <a href="https://github.com/SpikeTek241">
+  <a href="https://github.com/KevinJeromeTech">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=800020&center=true&vCenter=true&width=600&height=45&lines=CS+%40+FIU+%E2%80%94+Class+of+2026;Building+Fintech%2C+Productivity+%26+Edtech+products;From+Architecture+to+Deployment;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Miami%2C%20FL-800020?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=SpikeTek241&style=for-the-badge&color=800020&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=KevinJeromeTech&style=for-the-badge&color=800020&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Status:     Open to opportunities
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
-      <a href="https://github.com/SpikeTek241/ExpenseIQ">→ View Project</a>
+      <a href="https://github.com/KevinJeromeTech/ExpenseIQ">→ View Project</a>
     </td>
     <td valign="top" width="50%">
       <h3>Kairos</h3>
@@ -91,7 +91,7 @@ Status:     Open to opportunities
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
-      <a href="https://github.com/SpikeTek241/Universal-Educational-Empowerment">→ View Project</a>
+      <a href="https://github.com/KevinJeromeTech/Universal-Educational-Empowerment">→ View Project</a>
     </td>
     <td valign="top" width="50%">
       <h3>StoreLens</h3>
@@ -105,7 +105,7 @@ Status:     Open to opportunities
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
-      <a href="https://github.com/SpikeTek241">→ Coming Soon</a>
+      <a href="https://github.com/KevinJeromeTech">→ Coming Soon</a>
     </td>
   </tr>
 </table>
@@ -123,12 +123,12 @@ Status:     Open to opportunities
 ## Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SpikeTek241&theme=dark&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020&sideLabels=888&dates=888" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=SpikeTek241&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&include_all_commits=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KevinJeromeTech&theme=dark&hide_border=true&background=0D1117&ring=800020&fire=800020&currStreakLabel=800020&sideLabels=888&dates=888" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinJeromeTech&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=800020&icon_color=800020&include_all_commits=true&count_private=true" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpikeTek241&theme=github-compact&bg_color=0D1117&color=800020&line=800020&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinJeromeTech&theme=github-compact&bg_color=0D1117&color=800020&line=800020&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 ---
