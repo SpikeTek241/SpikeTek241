@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ About
+## About
 
 ```yaml
 Name:       Kevin Jerome
